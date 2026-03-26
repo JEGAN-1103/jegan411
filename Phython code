@@ -1,0 +1,24 @@
+# main.py
+
+"""
+A simple starter Python template.
+"""
+
+
+def example_function():
+    """
+    A simple example function that prints a message.
+    """
+    print("Hello, this is an example function!")
+
+
+def main():
+    """
+    The main entry point of the program.
+    """
+    print("Starting the program...")
+    example_function()
+
+
+if __name__ == "__main__":
+    main()
